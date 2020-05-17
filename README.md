@@ -4,4 +4,4 @@ An exmple of Flutter New Widget NavigationRail
 
 ## Navigation Rail
 
-<img src = "featured/navigationRail.PNG">
+<img src = "featured/NavigationRail.PNG">
